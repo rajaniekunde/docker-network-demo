@@ -1,6 +1,6 @@
-Hands-On 2: Networking in Docker (Bridge, Host, and Custom Networks)
+**Hands-On 2:**** Networking in Docker (Bridge, Host, and Custom Networks)**
 
-🎯 Goal:
+🎯 **Goal:**
 
 Run a Node.js API that connects to PostgreSQL using different Docker networks.
 
